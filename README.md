@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="Prometheus & Grafana Monitoring Banner"/>
+</p>
+
 # 🚀 Prometheus & Grafana Monitoring Projects
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo)
